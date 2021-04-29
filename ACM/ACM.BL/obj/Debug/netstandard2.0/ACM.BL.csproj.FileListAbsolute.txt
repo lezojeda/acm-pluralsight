@@ -1,0 +1,8 @@
+C:\Southworks\acm-pluralsight\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.deps.json
+C:\Southworks\acm-pluralsight\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.dll
+C:\Southworks\acm-pluralsight\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.pdb
+C:\Southworks\acm-pluralsight\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfoInputs.cache
+C:\Southworks\acm-pluralsight\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfo.cs
+C:\Southworks\acm-pluralsight\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Southworks\acm-pluralsight\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.dll
+C:\Southworks\acm-pluralsight\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.pdb
