@@ -54,5 +54,38 @@ namespace ACM.BLTest
             // Assert
             Assert.AreEqual("Bilbo", expected);
         }
+
+        [TestMethod]
+        public void Should_Return_True_When_Validating_Valid_Customer()
+        {
+            // Arrange
+            var customer = new Customer()
+            {
+                LastName = "Baggins",
+                EmailAddress = "some@email.com",
+            };
+
+            // Act
+            var validationResult = customer.Validate();
+
+            // Assert
+            Assert.AreEqual(true, validationResult);
+        }
+
+        [TestMethod]
+        public void Should_Return_False_When_Validating_Invalid_Customer()
+        {
+            // Arrange
+            var customer = new Customer()
+            {
+                LastName = "Baggins",
+            };
+
+            // Act
+            var validationResult = customer.Validate();
+
+            // Assert
+            Assert.AreEqual(false, validationResult);
+        }
     }
 }

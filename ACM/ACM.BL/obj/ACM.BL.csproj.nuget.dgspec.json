@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Southworks\\acm-pluralsight\\ACM\\ACM.BL\\ACM.BL.csproj": {}
+    "C:\\Users\\lucas\\Source\\Repos\\acm-pluralsight\\ACM\\ACM.BL\\ACM.BL.csproj": {}
   },
   "projects": {
-    "C:\\Southworks\\acm-pluralsight\\ACM\\ACM.BL\\ACM.BL.csproj": {
+    "C:\\Users\\lucas\\Source\\Repos\\acm-pluralsight\\ACM\\ACM.BL\\ACM.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Southworks\\acm-pluralsight\\ACM\\ACM.BL\\ACM.BL.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Source\\Repos\\acm-pluralsight\\ACM\\ACM.BL\\ACM.BL.csproj",
         "projectName": "ACM.BL",
-        "projectPath": "C:\\Southworks\\acm-pluralsight\\ACM\\ACM.BL\\ACM.BL.csproj",
-        "packagesPath": "C:\\Users\\LucasOjeda\\.nuget\\packages\\",
-        "outputPath": "C:\\Southworks\\acm-pluralsight\\ACM\\ACM.BL\\obj\\",
+        "projectPath": "C:\\Users\\lucas\\Source\\Repos\\acm-pluralsight\\ACM\\ACM.BL\\ACM.BL.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\Source\\Repos\\acm-pluralsight\\ACM\\ACM.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LucasOjeda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

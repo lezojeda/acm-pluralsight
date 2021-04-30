@@ -6,3 +6,12 @@ C:\Southworks\acm-pluralsight\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.Assembl
 C:\Southworks\acm-pluralsight\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csproj.CoreCompileInputs.cache
 C:\Southworks\acm-pluralsight\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.dll
 C:\Southworks\acm-pluralsight\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.pdb
+C:\Users\lucas\Source\Repos\acm-pluralsight\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.deps.json
+C:\Users\lucas\Source\Repos\acm-pluralsight\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.dll
+C:\Users\lucas\Source\Repos\acm-pluralsight\ACM\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.pdb
+C:\Users\lucas\Source\Repos\acm-pluralsight\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csprojAssemblyReference.cache
+C:\Users\lucas\Source\Repos\acm-pluralsight\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfoInputs.cache
+C:\Users\lucas\Source\Repos\acm-pluralsight\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfo.cs
+C:\Users\lucas\Source\Repos\acm-pluralsight\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Source\Repos\acm-pluralsight\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.dll
+C:\Users\lucas\Source\Repos\acm-pluralsight\ACM\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.pdb
