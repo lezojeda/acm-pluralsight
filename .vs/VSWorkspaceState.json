@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ACM",
+    "\\ACM\\ACM.BL"
   ],
+  "SelectedNode": "\\ACM\\ACM.BL\\OrderItem.cs",
   "PreviewInSolutionExplorer": false
 }
