@@ -1,8 +1,6 @@
-using System.Collections.Generic;
-
 namespace ACM.BL
 {
-    public class Order
+    public class OrderItem
     {
         public Product product;
 
@@ -15,9 +13,9 @@ namespace ACM.BL
             return true;
         }
 
-        public Order Retrieve(string orderId)
+        public OrderItem Retrieve(string orderItemId)
         {
-            return new Order();
+            return new OrderItem();
         }
 
         public bool Save()

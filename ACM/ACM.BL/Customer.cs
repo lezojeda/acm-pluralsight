@@ -55,19 +55,9 @@ namespace ACM.BL
             return !string.IsNullOrWhiteSpace(LastName) && !string.IsNullOrWhiteSpace(EmailAddress);
         }
 
-        public Customer Retrieve(string customerId)
-        {
-            return new Customer();
-        }
-
         public List<Customer> RetrieveAllCustomers()
         {
             return new List<Customer>();
-        }
-
-        public bool Save()
-        {
-            return true;
         }
     }
 }
