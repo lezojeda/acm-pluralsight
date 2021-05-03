@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u57zb+AQ3dIzoZYTjlL+4yD/mjt6ZzQbNikq9A207F76bRdbdAuqQGKBNQ5Z+uxvWtqIFmYyXbwsPhd63Wp+Qw==",
+  "dgSpecHash": "1gSOZGkZqucmTj5DSU7HiasyAoAJ/ZMaw7it34MVi272vkge0pnz9Y8uNoJLMGOsu7zMIQrghoBX3NMH6i+yOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Source\\Repos\\acm-pluralsight\\ACM\\ACM.BL\\ACM.BL.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\lucas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Lucas\\Dropbox\\Programación\\acm-pluralsight\\ACM\\ACM.BL\\ACM.BL.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

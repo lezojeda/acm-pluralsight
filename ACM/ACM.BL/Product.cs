@@ -2,7 +2,7 @@
 
 namespace ACM.BL
 {
-    public class Product
+    public class Product : EntityBase
     {
         public Product()
         {
@@ -20,7 +20,7 @@ namespace ACM.BL
 
         public decimal CurrentPrice { get; set; }
 
-        public bool Validate()
+        public override bool Validate()
         {
             return Description.Length < 100 && !string.IsNullOrWhiteSpace(ProductName);
         }
